@@ -1,5 +1,5 @@
 import shutil
-import urllib
+import urllib.request
 
 
 def download(url: str, local_path: str):
